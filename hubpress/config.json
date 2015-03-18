@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "tuantranf",
-    "repositoryName": "tuantranf.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"tuantranf","repositoryName":"tuantranf.github.io","branch":"master"},"site":{"title":"tuan@w","description":"Something what I 've started with","url":"https://tuantranf.github.io"},"socialnetwork":{"email":"","github":"tuantranf"},"theme":{"name":"Casper","url":"//tuantranf.github.io/themes/Casper"}}
