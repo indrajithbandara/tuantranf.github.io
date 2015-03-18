@@ -1,0 +1,13 @@
+= Test entry
+
+:published_at: 2015-03-18
+
+:hp-tags: HubPress, Blog, Sample
+
+:hp-image: a-cover-image.jpg
+
+Hello World!
+
+This is a test post.
+
+image::tuanw.png[]
