@@ -6,8 +6,8 @@
 
 :hp-image: a-cover-image.jpg
 
-Hello World!
 
-This is a test post.
+this is a test entry
 
-image::tuanw.png[]
+
+
